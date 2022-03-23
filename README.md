@@ -1,2 +1,2 @@
 # nwjs-typescript-project
-Desktop GUI application base with NW.JS &amp; Typescript
+Cross-platform desktop GUI application base with NW.JS &amp; Typescript
