@@ -1,0 +1,22 @@
+/* Application theme */
+:root {
+    --main-font: "Source Sans Pro";
+    --main-font-size: 14px;
+}
+
+/* Any other CSS reset and global configuration below */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: var(--main-font);
+    font-size: var(--main-font-size);
+}
+
+#main {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
