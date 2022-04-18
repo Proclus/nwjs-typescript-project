@@ -400,7 +400,7 @@ declare module "nwp-gateway.node" {
 ### Tests
 [TODO]
 
-### Building the platform executable: MacOS
+### Building the platform executable
 #### MacOS
 * Create a directory named _app.nw_.
 * Copy package.json and all your bundled build files, node addons, node-main.ts, etc... into this directory.
